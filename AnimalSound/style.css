@@ -1,0 +1,66 @@
+body{
+   text-align: center;
+   background-color: #6096B4;
+   background-size: cover;
+        background-repeat: no-repeat;
+}
+h1{
+   font-size: 6rem;
+   font-family: 'Fascinate Inline', cursive;
+   text-shadow: 3px 0 #0F6292;
+}
+
+.elephant{
+    background-image: url("images/elephant.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+
+}
+.horse{
+    background-image: url("images/pexels-helena-lopes-1996333.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.cat{
+    background-image: url("images/image.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.monkey{
+    background-image: url("images/mon_636103ccb1caf.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.dog{
+    background-image: url("images/gettyimages-837898820-1-4deae142d4d0403dbb6cb542bfc56934.jpg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+.set{
+   margin: 10%;
+
+}
+
+.animal{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 3rem;
+    margin: 4% 3%;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 600;
+    color: #93BFCF;
+    text-shadow: 2px 0 #BDCDD6;
+    border-radius: 15px;
+    display: inline-block;
+    background-color: white;
+    width: 150px;
+    height: 100px;
+    overflow: hidden;
+}
+
